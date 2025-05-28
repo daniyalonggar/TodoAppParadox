@@ -153,3 +153,7 @@ role: ROLE_USER
 
 <img width="869" alt="Снимок экрана 2025-05-29 в 01 16 24" src="https://github.com/user-attachments/assets/55f5d0c1-9430-49ec-9aaa-d023a73d1074" />
 
+<img width="870" alt="Снимок экрана 2025-05-29 в 01 25 13" src="https://github.com/user-attachments/assets/f608b638-1e43-4e12-940a-287f1aca3502" />
+
+<img width="870" alt="Снимок экрана 2025-05-29 в 01 26 30" src="https://github.com/user-attachments/assets/51fa025e-2388-42d5-8a65-4667f197d075" />
+
